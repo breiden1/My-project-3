@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0c43ef1bcb85db43a1c038bf0bb6bee, type: 3}
+  m_Name: red gremlin
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: red gremlin
+  artwork: {fileID: 3057026831154395119, guid: 7dd26b4ff2b3cdd40838195810462003, type: 3}
+  description: a unassuming little red guy
+  cardType: 0
+  starterType: 0
+  attack: 1
+  defense: 0
+  hp: 1
+  sacrificeCost: 0
+  sacrificeWorth: 1
+  effectType: 0
+  ability: 
+  maxCopiesInDeck: 3
